@@ -8,4 +8,4 @@ Currency converter script for etoro reports (csv report).
 - currency_converter
 
 ## Converter logic
-This version converts USD profit to EUR using conversion rate on closed date or latest conversion rate near to close date.  
+This version converts USD profit to EUR using conversion rate on closed date or latest conversion rate nearest to close date.  
